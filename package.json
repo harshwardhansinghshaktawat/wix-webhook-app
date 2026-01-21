@@ -1,0 +1,9 @@
+{
+  "name": "wix-webhook-app",
+  "version": "1.0.0",
+  "description": "Wix Blocks App Webhook Handler",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2",
+    "node-fetch": "^2.7.0"
+  }
+}
